@@ -1,22 +1,12 @@
 # README
 
-> **Note:** This readme template is based on one from the [Good Docs Project](https://thegooddocsproject.dev). You can find it and a guide to filling it out [here](https://gitlab.com/tgdp/templates/-/tree/main/readme). (_Erase this note after filling out the readme._)
-
 <h1 align="center">
   <br>
   <a href="https://openpecha.org"><img src="https://avatars.githubusercontent.com/u/82142807?s=400&u=19e108a15566f3a1449bafb03b8dd706a72aebcd&v=4" alt="OpenPecha" width="150"></a>
   <br>
 </h1>
 
-## _Project Name_
-_The project name should match its code's capability so that new users can easily understand what it does._
-
-## Owner(s)
-
-_Change to the owner(s) of the new repo. (This template's owners are:)_
-- [@ngawangtrinley](https://github.com/ngawangtrinley)
-- [@mikkokotila](https://github.com/mikkokotila)
-- [@evanyerburgh](https://github.com/evanyerburgh)
+## Categories for Fodian.org
 
 
 ## Table of contents
@@ -33,109 +23,20 @@ _Change to the owner(s) of the new repo. (This template's owners are:)_
 <hr>
 
 ## Project description
-_Use one of these:_
-
-With _Project Name_ you can _verb_ _noun_...
-
-_Project Name_ helps you _verb_ _noun_...
+Pecha categories helps you assign categories to the main text menu on pecha.org and its forks such as fodian.org 
 
 
 ## Who this project is for
-This project is intended for _target user_ who wants to _user objective_.
-
-
-## Project dependencies
-Before using _Project Name_, ensure you have:
-* _Prerequisite 1_
-* _Prerequisite 2_
-* _Prerequisite 3..._
-
-
-## Instructions for use
-Get started with _Project Name_ by _(write the first step a user needs to start using the project. Use a verb to start.)_.
-
-
-### Install _Project Name_
-1. _Write the step here._ 
-
-    _Explanatory text here_ 
-    
-    _(Optional: Include a code sample or screenshot that helps your users complete this step.)_
-
-2. _Write the step here._
- 
-    a. _Substep 1_ 
-    
-    b. _Substep 2_
-
-
-### Configure _Project Name_
-1. _Write the step here._
-2. _Write the step here._
-
-
-### Run _Project Name_
-1. _Write the step here._
-2. _Write the step here._
-
-
-### Troubleshoot _Project Name_
-1. _Write the step here._
-2. _Write the step here._
-
-<table>
-  <tr>
-   <td>
-    Issue
-   </td>
-   <td>
-    Solution
-   </td>
-  </tr>
-  <tr>
-   <td>
-    _Describe the issue here_
-   </td>
-   <td>
-    _Write solution here_
-   </td>
-  </tr>
-  <tr>
-   <td>
-    _Describe the issue here_
-   </td>
-   <td>
-    _Write solution here_
-   </td>
-  </tr>
-  <tr>
-   <td>
-    _Describe the issue here_
-   </td>
-   <td>
-    _Write solution here_
-   </td>
-  </tr>
-</table>
-
-
-Other troubleshooting supports:
-* _Link to FAQs_
-* _Link to runbooks_
-* _Link to other relevant support information_
+This project is intended for content managers who wants to create categories for the pecha CMS webapp.
 
 
 ## Contributing guidelines
-If you'd like to help out, check out our [contributing guidelines](/CONTRIBUTING.md).
-
-
-## Additional documentation
-_Include links and brief descriptions to additional documentation._
-
-For more information:
-* [Reference link 1](#)
-* [Reference link 2](#)
-* [Reference link 3](#)
+1. Look at how the file is structured and copy paste previous sections  
+1. You select a section and use **tab** or **ctrl+tab** to change the level  
+1. Name in en/bo/zh are a must  
+1. Descriptions will help readers on the platform, you can add them here [Categories for pecha.org  with mapping to Derge](https://docs.google.com/spreadsheets/d/1ncPxU4y9vcXW9ayy30mKxn2Lc794odsWQBh50sG7h9E/edit?gid=499376300#gid=499376300)  
+1. Classical/literal chinese (**lzh**) is the default language and need the \[lzh\] tag as “金刚经\[lzh\]”   
+1. Modern chinese translations should have the tag “**\[zh\]**” at the end of titles like “金刚经\[zh\]”  
 
 
 ## How to get help

@@ -1,0 +1,191 @@
+categories:
+  - id: discourses
+    name:  
+       en: "Discourses"  
+       bo: "མདོ་སྡེ།"  
+       zh: "經部"  
+    short_description:  
+       en: ""  
+       bo: ""  
+       zh: ""  
+    description:  
+       en: ""  
+       bo: ""  
+       zh: ""  
+    subcategories:  
+       ...
+  - id: perfection-of-wisdom
+    name:  
+       en: "Perfection of Wisdom"  
+       bo: "ཤེར་ཕྱིན།"  
+       zh: "般若"  
+    short_description:  
+       en: ""  
+       bo: ""  
+       zh: ""  
+    description:  
+       en: ""  
+       bo: ""  
+       zh: ""  
+    subcategories:
+      - id: discourses-on-the-perfection-of-wisdom
+        name:  
+            en: "Discourses on the Perfection of Wisdom"  
+            bo: "ཤེར་ཕྱིན་གྱི་མདོ།"  
+            zh: "般若論典"  
+        short_description:  
+            en: ""  
+            bo: ""  
+            zh: ""  
+        description:  
+            en: ""  
+            bo: ""  
+            zh: ""  
+        subcategories:
+          - id: diamond-cutter-sutra  
+            name:  
+                en: "Diamond Cutter Sutra"  
+                bo: "རྡོ་རྗེ་གཅོད་པ།"  
+                zh: ""  
+            short_description:  
+                en: ""  
+                bo: ""  
+                zh: ""  
+            description:  
+                en: ""  
+                bo: ""  
+                zh: ""  
+          - id: the-condensed-perfection-of-wisdom  
+            name:  
+              en: "The Condensed Perfection of Wisdom"  
+              bo: "འཕགས་པ་སྡུད་པ།"  
+              zh: ""  
+            short_description:  
+              en: ""  
+              bo: ""  
+              zh: ""  
+            description:  
+              en: ""  
+              bo: ""  
+              zh: ""  
+          - id: the-heart-sutra  
+            name:  
+              en: "The Heart Sutra"  
+              bo: "ཤེས་རབ་སྙིང་པོ།"  
+              zh: ""  
+            short_description:  
+              en: ""  
+              bo: ""  
+              zh: ""  
+            description:  
+              en: ""  
+              bo: ""  
+              zh: ""  
+          - id: collection-of-praises  
+            name:  
+              en: "Collection of Praises"  
+              bo: "བསྟོད་ཚོགས།"  
+              zh: ""  
+            short_description:  
+              en: ""  
+              bo: ""  
+              zh: ""  
+            description:  
+              en: ""  
+              bo: ""  
+              zh: ""
+      - id: treatises-on-the-perfection-of-wisdom
+        name:  
+            en: "Treatises on the Perfection of Wisdom"  
+            bo: "ཤེར་ཕྱིན་གྱི་བསྟན་བཅོས།"  
+            zh: "般若論典"  
+        short_description:  
+            en: ""  
+            bo: ""  
+            zh: ""  
+        description:  
+            en: ""  
+            bo: ""  
+            zh: ""  
+        subcategories:  
+            
+  - id: middle-way
+    name:  
+       en: "Discourses"  
+       bo: "མདོ་སྡེ།"  
+       zh: "經部"  
+    short_description:  
+       en: ""  
+       bo: ""  
+       zh: ""  
+    description:  
+       en: ""  
+       bo: ""  
+       zh: ""  
+    subcategories:  
+      - id: entering-middle-way  
+        name:  
+            en: "Entering the Middle Way"  
+            bo: "དབུ་མ་ལ་འཇུག་པ།"  
+            zh: ""  
+        short_description:  
+            en: ""  
+            bo: ""  
+            zh: ""  
+        description:  
+            en: "Root text and commentaries of the work composed by Chandrakirti in the 7th century"  
+            bo: "དུས་རབས་ ༧ པའི་ནང་སློབ་དཔོན་ཟླ་བ་གྲགས་པས་མཛད་པའི་རྩ་བ་དང་དེའི་འགྲེལ་བ་སོགས།"  
+            zh: ""  
+      - id: four-hundred-verses  
+        name:  
+            en: "Four Hundred Verses"  
+            bo: "བཞི་བརྒྱ་པ།"  
+            zh: ""  
+        short_description:  
+            en: ""  
+            bo: ""  
+            zh: ""  
+        description:  
+            en: ""  
+            bo: ""  
+            zh: ""  
+      - id: bodhicaryavatara  
+        name:  
+            en: "Bodhicaryavatara"  
+            bo: "སྤྱོད་འཇུག"  
+            zh: ""  
+        short_description:  
+            en: ""  
+            bo: ""  
+            zh: ""  
+        description:  
+            en: "Root text and commentaries of the work composed by Shantideva in the 8th century"  
+            bo: "དུས་རབས་ ༨ པའི་ནང་སློབ་དཔོན་ཞི་བ་ལྷས་མཛད་པའི་རྩ་བ་དང་དེའི་འགྲེལ་བ་སོགས།"  
+            zh: ""
+  - id: mind-only-treatises
+    name:  
+       en: "Mind-only Treatises"  
+       bo: "སེམས་ཙམ།"  
+       zh: "唯識"  
+    short_description:  
+       en: ""  
+       bo: ""  
+       zh: ""  
+    description:  
+       en: ""  
+       bo: ""  
+       zh: ""  
+    subcategories:
+      - id: a-detailed-explanation-of-the-compendium-of-abhidharma  
+        name:  
+            en: "A Detailed Explanation of The Compendium of Abhidharma"  
+            bo: "མངོན་པ་ཆོས་ཀུན་ནས་བཏུས་པའི་རྣམ་པར་བཤད་པ་ཞེས་བྱ་བ།"  
+            zh: "阿毘達磨雜集論"  
+        short_description:  
+            en: ""  
+            bo: ""  
+            zh: ""  
+        description:  
+            en: ""  
+            bo: ""  
+            zh: ""  
